@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Comentarios/Comentarios.iml" filepath="$PROJECT_DIR$/Fundamentos/Comentarios/Comentarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Console/Console.iml" filepath="$PROJECT_DIR$/Fundamentos/Console/Console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Conversoes/Conversoes.iml" filepath="$PROJECT_DIR$/Fundamentos/Conversoes/Conversoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Fundamentos.iml" filepath="$PROJECT_DIR$/Fundamentos/Fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java completo.iml" filepath="$PROJECT_DIR$/Java completo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/MetodoString/MetodoString.iml" filepath="$PROJECT_DIR$/Fundamentos/MetodoString/MetodoString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/NotacaoPonto/NotacaoPonto.iml" filepath="$PROJECT_DIR$/Fundamentos/NotacaoPonto/NotacaoPonto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Temperaturas/Temperaturas.iml" filepath="$PROJECT_DIR$/Fundamentos/Temperaturas/Temperaturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Variaveis e constantes/Variaveis e constantes.iml" filepath="$PROJECT_DIR$/Fundamentos/Variaveis e constantes/Variaveis e constantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Wrapper/Wrapper.iml" filepath="$PROJECT_DIR$/Fundamentos/Wrapper/Wrapper.iml" />
+    </modules>
+  </component>
+</project>

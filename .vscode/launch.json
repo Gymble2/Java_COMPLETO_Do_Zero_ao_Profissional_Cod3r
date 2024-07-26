@@ -1,0 +1,413 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Observador",
+            "request": "launch",
+            "mainClass": "Observador.Observador",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "FestaSurpresa",
+            "request": "launch",
+            "mainClass": "ProjetoObserver.FestaSurpresa",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoBaguncado",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.Collections.src.ConjuntoBaguncado",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoComportado",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.Collections.src.ConjuntoComportado",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.Collections.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.Construtor.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.FIla.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Hash",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.Hash.src.Hash",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "ListasEstudos",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.Listas.src.ListasEstudos",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Map",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.Map.src.Map",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Pilha",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.Pilha.src.Pilha",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.ArraysAndCollections.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Desafios.CarroDesafio.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Desafios.Data.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Desafios.OperadoresLogicos.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "primeiroTrauma",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Desafios.PrimeiroTrauma.src.primeiroTrauma",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Desafios.desafiomoduloclassemetodo.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Desafios.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.Areacif.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.Comentarios.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.Console.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(12)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.ConversaoNumeroString.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(13)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.ConversaoStringNumero.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(14)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.Conversoes.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(15)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.MetodoString.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(16)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.NotacaoPonto.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(17)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.Operadores.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(18)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.OperadoresRelacionais.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(19)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.Temperaturas.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(20)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.Wrapper.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(21)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Fundamentos.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "CalculoTeste",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.CalculoTeste",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "CalculoTeste2",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.CalculoTeste2",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "CalculoTeste3",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.CalculoTeste3",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Consumidor",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.Consumidor",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "desafioBinaryOperator",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.DesafioBinaryOperator.desafioBinaryOperator",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "ForeachFuncional",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.ForeachFuncional",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Fornecedor",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.Fornecedor",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Funcao",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.Funcao",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "OperadorBInario",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.OperadorBInario",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "OperadorUnario",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.OperadorUnario",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Predicado",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.Predicado",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "PredicadoComposicao",
+            "request": "launch",
+            "mainClass": "JavaCompleto.Lambda.PredicadoComposicao",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "CriandoStreams",
+            "request": "launch",
+            "mainClass": "JavaCompleto.StreamAPI.CriandoStreams",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "DesafioFIlter",
+            "request": "launch",
+            "mainClass": "JavaCompleto.StreamAPI.DesafioFIlter",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "DesafioMap",
+            "request": "launch",
+            "mainClass": "JavaCompleto.StreamAPI.DesafioMap",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Filter",
+            "request": "launch",
+            "mainClass": "JavaCompleto.StreamAPI.Filter",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "ImprimindoObjetos",
+            "request": "launch",
+            "mainClass": "JavaCompleto.StreamAPI.ImprimindoObjetos",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Map(1)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.StreamAPI.Map",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Match",
+            "request": "launch",
+            "mainClass": "JavaCompleto.StreamAPI.Match",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "MineMax",
+            "request": "launch",
+            "mainClass": "JavaCompleto.StreamAPI.MineMax",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Básico",
+            "request": "launch",
+            "mainClass": "JavaCompleto.TratamentoDeExecao.Básico",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "ChecadaVsNaoChecada",
+            "request": "launch",
+            "mainClass": "JavaCompleto.TratamentoDeExecao.ChecadaVsNaoChecada",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "PersonalizadaA",
+            "request": "launch",
+            "mainClass": "JavaCompleto.TratamentoDeExecao.PersonalizadoErros.PersonalizadaA",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Sistema",
+            "request": "launch",
+            "mainClass": "JavaCompleto.lPOO.DesafioApresentarCapLPOO.Cliente.src.Sistema",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Jogo",
+            "request": "launch",
+            "mainClass": "JavaCompleto.lPOO.Jogo.Jogo",
+            "projectName": "Estudo programação_697a5a"
+        },
+        {
+            "type": "java",
+            "name": "Main(22)",
+            "request": "launch",
+            "mainClass": "JavaCompleto.lPOO.src.Main",
+            "projectName": "Estudo programação_697a5a"
+        }
+    ]
+}
