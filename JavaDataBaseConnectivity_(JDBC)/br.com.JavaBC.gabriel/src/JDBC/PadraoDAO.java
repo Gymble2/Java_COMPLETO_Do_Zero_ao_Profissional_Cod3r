@@ -41,15 +41,7 @@ public class PadraoDAO {
                     if(atributo instanceof String){
                         stmt.setString(indice,(String)atributo);
                     }else if(atributo instanceof Integer){
-                        stmt.setInt(indice, (Integer) atributo);
-                  indice ++;
-                }
-            }
-        }
-
-    public void close(){
-        try {
-            getConexao().close();    
+                        stmt.setInt(indice, (Integer) atributo);         indice ++;}  }}public void close(){try { getConexao().close();    
         } catch (SQLException e) {
 
         }finally{
